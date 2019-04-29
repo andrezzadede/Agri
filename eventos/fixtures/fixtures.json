@@ -1,0 +1,204 @@
+[
+    {
+        "model" : "eventos.Estado",
+        "pk" : 1, 
+        "fields" : {
+            "estado" : "Acre"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 2, 
+        "fields" : {
+            "estado" : "Alagoas"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 3, 
+        "fields" : {
+            "estado" : "Amapá"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 4, 
+        "fields" : {
+            "estado" : "Amazonas"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 5, 
+        "fields" : {
+            "estado" : "Bahia"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 6, 
+        "fields" : {
+            "estado" : "Ceará"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 7, 
+        "fields" : {
+            "estado" : "Distrito Federal"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 8, 
+        "fields" : {
+            "estado" : "Espírito Santo"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 9, 
+        "fields" : {
+            "estado" : "Goiás"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 10, 
+        "fields" : {
+            "estado" : "Maranhão"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 11, 
+        "fields" : {
+            "estado" : "Mato Grosso"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 12, 
+        "fields" : {
+            "estado" : "Mato Grosso do Sul"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 13, 
+        "fields" : {
+            "estado" : "Minas Gerais"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 14, 
+        "fields" : {
+            "estado" : "Pará"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 15, 
+        "fields" : {
+            "estado" : "Paraíba"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 16, 
+        "fields" : {
+            "estado" : "Paraná"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 18, 
+        "fields" : {
+            "estado" : "Pernambuco"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 19, 
+        "fields" : {
+            "estado" : "Piauí"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 20, 
+        "fields" : {
+            "estado" : "Rio de Janeiro"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 21, 
+        "fields" : {
+            "estado" : "Rio Grande do Norte"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 22, 
+        "fields" : {
+            "estado" : "Rio Grande do Sul"
+        }
+    },
+
+    {
+        "model" : "eventos.Estado",
+        "pk" : 23, 
+        "fields" : {
+            "estado" : "Rondônia"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 24, 
+        "fields" : {
+            "estado" : "Roraima"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 25, 
+        "fields" : {
+            "estado" : "Santa Catarina"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 26, 
+        "fields" : {
+            "estado" : "São Paulo"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 27, 
+        "fields" : {
+            "estado" : "Sergipe"
+        }
+    },
+    {
+        "model" : "eventos.Estado",
+        "pk" : 28, 
+        "fields" : {
+            "estado" : "Tocantins"
+        }
+    }
+]
+
